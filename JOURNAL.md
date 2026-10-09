@@ -16,7 +16,7 @@
 
 1. [2026-10-07 – Work session](#2026-10-07-work-session)
 2. [2026-10-07 – Work session](#2026-10-07-work-session)
-3. [2026-10-09 – Work session](#2026-10-09-work-session)
+3. [2026-10-09 – I wired the PCB at first but had some fails. in the end I rewired it using net labels and also upgraded the microcontroller to be more powerful in the same footprint. I also positioned the components](#2026-10-09-i-wired-the-pcb-at-first-but-had-some-fails-in-th)
 
 ## Design
 
@@ -38,9 +38,11 @@ Work session
 
 [Timelapse](https://lookout.hackclub.com/api/media/c0ed822c-3efd-410c-b8bc-1d2e67de63c6/video.mp4)
 
-### 2026-10-09 – Work session
+### 2026-10-09 – I wired the PCB at first but had some fails. in the end I rewired it using net labels and also upgraded the microcontroller to be more powerful in the same footprint. I also positioned the components
 
 **2.33h**
+
+I wired the PCB at first but had some fails. in the end I rewired it using net labels and also upgraded the microcontroller to be more powerful in the same footprint. I also positioned the components in place on the PCB.
 
 [Timelapse](https://lookout.hackclub.com/api/media/9cf20325-fbe1-4883-8768-b4d417abd2a6/video.mp4)
 
