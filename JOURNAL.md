@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-07 – Work session](#2026-10-07-work-session)
-2. [2026-10-07 – Work session](#2026-10-07-work-session)
+2. [2026-10-07 – Found necessary components for my project on easy EDA and started to wire them together.](#2026-10-07-found-necessary-components-for-my-project-on-easy)
 3. [2026-10-09 – I wired the PCB at first but had some fails. in the end I rewired it using net labels and also upgraded the microcontroller to be more powerful in the same footprint. I also positioned the components](#2026-10-09-i-wired-the-pcb-at-first-but-had-some-fails-in-th)
 
 ## Design
@@ -28,11 +28,11 @@ Work session
 
 [Timelapse](https://lookout.hackclub.com/api/media/86268d37-6785-4d05-94b7-eb1e5c25fc92/video.mp4)
 
-### 2026-10-07 – Work session
+### 2026-10-07 – Found necessary components for my project on easy EDA and started to wire them together.
 
 **1.87h**
 
-Work session
+Found necessary components for my project on easy EDA and started to wire them together.
 
 [Timelapse](https://lookout.hackclub.com/api/media/e8b2d749-b45b-4885-95ea-7e5bebf34565/video.mp4)
 
