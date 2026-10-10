@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 7.75h | 3 |
+| Week 1 | Tier 1 | 8h | 3 |
 
 ## Contents
 
@@ -46,8 +46,8 @@ I finished my PCB and  uploaded it as a gerber file into my github repository. I
 
 ### 2026-10-09 – I wired the PCB at first but had some fails. in the end I rewired it using net labels and also upgraded the microcontroller to be more powerful in the same footprint. I also positioned the components
 
-**2.25h**
+**2.5h**
 
-I wired the PCB at first but had some fails. in the end I rewired it using net labels and also upgraded the microcontroller to be more powerful in the same footprint. I also positioned the components in place on the PCB. I also had done the 5h progress reel and explained my pcb and troubleshooting.
+I wired the PCB at first but had some fails. in the end I rewired it using net labels and also upgraded the microcontroller to be more powerful in the same footprint. I also positioned the components in place on the PCB. I also had done the 5h progress reel in which I explained my PCB and troubleshooting process.
 
 [Timelapse](https://lookout.hackclub.com/api/media/0ea19c30-91cc-40f8-b36d-dcdaef705a60/video.mp4)
