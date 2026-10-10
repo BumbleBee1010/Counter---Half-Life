@@ -10,12 +10,12 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 7.02h | 3 |
+| Week 1 | Tier 1 | 7.25h | 3 |
 
 ## Contents
 
 1. [2026-10-07 – I was deciding what to use in my project. As in what design and rough idea I want my PCB project to end up as. I also searched around with my phone on how to use the software and look up how the half](#2026-10-07-i-was-deciding-what-to-use-in-my-project-as-in-wh)
-2. [2026-10-07 – Work session](#2026-10-07-work-session)
+2. [2026-10-07 – I finished my PCB and  uploaded it as a gerber file into my github repository. I started to look at parts and pricing for my components. I found components like the microcontroller on Pi Hut but I sti](#2026-10-07-i-finished-my-pcb-and-uploaded-it-as-a-gerber-fil)
 3. [2026-10-09 – I wired the PCB at first but had some fails. in the end I rewired it using net labels and also upgraded the microcontroller to be more powerful in the same footprint. I also positioned the components](#2026-10-09-i-wired-the-pcb-at-first-but-had-some-fails-in-th)
 
 ## Design
@@ -32,11 +32,11 @@ I was deciding what to use in my project. As in what design and rough idea I wan
 
 [Timelapse](https://lookout.hackclub.com/api/media/e8b2d749-b45b-4885-95ea-7e5bebf34565/video.mp4)
 
-### 2026-10-07 – Work session
+### 2026-10-07 – I finished my PCB and  uploaded it as a gerber file into my github repository. I started to look at parts and pricing for my components. I found components like the microcontroller on Pi Hut but I sti
 
-**2.65h**
+**2.88h**
 
-Work session
+I finished my PCB and  uploaded it as a gerber file into my github repository. I started to look at parts and pricing for my components. I found components like the microcontroller on Pi Hut but I still need to find others
 
 [Timelapse](https://lookout.hackclub.com/api/media/b86879fd-2092-4f04-9e13-4f5cb1130757/video.mp4)
 
