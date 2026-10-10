@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 3.9h | 3 |
+| Week 1 | Tier 1 | 5.27h | 3 |
 
 ## Contents
 
@@ -22,11 +22,13 @@
 
 ### 2026-10-07 – I was deciding what to use in my project. As in what design and rough idea I want my PCB project to end up as. I also searched around with my phone on how to use the software and look up how the half
 
-**0.75h**
+**2.12h**
 
 I was deciding what to use in my project. As in what design and rough idea I want my PCB project to end up as. I also searched around with my phone on how to use the software and look up how the half life system and projects work.
 
 [Timelapse](https://lookout.hackclub.com/api/media/86268d37-6785-4d05-94b7-eb1e5c25fc92/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/c0ed822c-3efd-410c-b8bc-1d2e67de63c6/video.mp4)
 
 ### 2026-10-07 – Found necessary components for my project on easy EDA and started to wire them together.
 
