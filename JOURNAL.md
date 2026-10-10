@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 4.45h | 3 |
+| Week 1 | Tier 1 | 4.75h | 3 |
 
 ## Contents
 
@@ -40,10 +40,12 @@ Found necessary components for my project on easy EDA and started to wire them t
 
 ### 2026-10-09 – I wired the PCB at first but had some fails. in the end I rewired it using net labels and also upgraded the microcontroller to be more powerful in the same footprint. I also positioned the components
 
-**2.33h**
+**2.63h**
 
 I wired the PCB at first but had some fails. in the end I rewired it using net labels and also upgraded the microcontroller to be more powerful in the same footprint. I also positioned the components in place on the PCB.
 
 [Timelapse](https://lookout.hackclub.com/api/media/9cf20325-fbe1-4883-8768-b4d417abd2a6/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/072f88ea-01a8-46e0-bb32-1061f9ecc769/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/b86879fd-2092-4f04-9e13-4f5cb1130757/video.mp4)
