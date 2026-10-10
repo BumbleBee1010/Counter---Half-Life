@@ -57,7 +57,7 @@ I wired the PCB at first but had some fails. in the end I rewired it using net l
 
 **3.53h**
 
-I found components I could use in my project in order to get a rough idea of what it would cost. I created a estimated BOM for my project and updated the readme so it was more in depth/ detailed. I was also looking up how funding and related things work when I was looking at the BOM
+I found components I could use in my project in order to get a rough idea of what it would cost. I created a estimated BOM for my project and updated the readme so it was more in depth/ detailed. I was also looking up how funding and related things work when I was looking at the BOM. I also created a pcb folder with the raw EasyEDA files in and the Gerber files in to, to keep them neat and organised.
 
 [Timelapse](https://lookout.hackclub.com/api/media/96340625-19df-4258-ad21-6a8fa4f1c623/video.mp4)
 
