@@ -24,7 +24,7 @@
 
 **2.62h**
 
-I was deciding what to use in my project. As in what design and rough idea I want my PCB project to end up as. I also searched around with my phone on how to use the software and look up how the half life system and projects work.
+I was deciding what to use in my project. As in what design and rough idea I want my PCB project to end up as. I also searched around with my phone on how to use the software and look up how the half life system and projects work. Also found necessary components for my project on easy EDA and started to wire them together.
 
 [Timelapse](https://lookout.hackclub.com/api/media/86268d37-6785-4d05-94b7-eb1e5c25fc92/video.mp4)
 
