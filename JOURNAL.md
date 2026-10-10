@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 5.27h | 3 |
+| Week 1 | Tier 1 | 4.77h | 3 |
 
 ## Contents
 
@@ -32,11 +32,9 @@ I was deciding what to use in my project. As in what design and rough idea I wan
 
 ### 2026-10-07 – Found necessary components for my project on easy EDA and started to wire them together.
 
-**2.13h**
+**1.63h**
 
 Found necessary components for my project on easy EDA and started to wire them together.
-
-[Timelapse](https://lookout.hackclub.com/api/media/e8b2d749-b45b-4885-95ea-7e5bebf34565/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/b86879fd-2092-4f04-9e13-4f5cb1130757/video.mp4)
 
