@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 3.66h | 3 |
+| Week 1 | Tier 1 | 5.27h | 3 |
 
 ## Contents
 
@@ -32,11 +32,15 @@ I was deciding what to use in my project. As in what design and rough idea I wan
 
 ### 2026-10-07 – Found necessary components for my project on easy EDA and started to wire them together.
 
-**0.52h**
+**2.13h**
 
 Found necessary components for my project on easy EDA and started to wire them together.
 
 [Timelapse](https://lookout.hackclub.com/api/media/e8b2d749-b45b-4885-95ea-7e5bebf34565/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/b86879fd-2092-4f04-9e13-4f5cb1130757/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/072f88ea-01a8-46e0-bb32-1061f9ecc769/video.mp4)
 
 ### 2026-10-09 – I wired the PCB at first but had some fails. in the end I rewired it using net labels and also upgraded the microcontroller to be more powerful in the same footprint. I also positioned the components
 
