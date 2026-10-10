@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 6h | 3 |
+| Week 1 | Tier 1 | 7.02h | 3 |
 
 ## Contents
 
@@ -34,11 +34,15 @@ I was deciding what to use in my project. As in what design and rough idea I wan
 
 ### 2026-10-07 – Work session
 
-**1.63h**
+**2.65h**
+
+Work session
 
 [Timelapse](https://lookout.hackclub.com/api/media/b86879fd-2092-4f04-9e13-4f5cb1130757/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/072f88ea-01a8-46e0-bb32-1061f9ecc769/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/9cf20325-fbe1-4883-8768-b4d417abd2a6/video.mp4)
 
 ### 2026-10-09 – I wired the PCB at first but had some fails. in the end I rewired it using net labels and also upgraded the microcontroller to be more powerful in the same footprint. I also positioned the components
 
